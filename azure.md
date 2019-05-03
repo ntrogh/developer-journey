@@ -1,4 +1,4 @@
-# Azure Developer Journey - Azure prerequisites
+# Azure Developer Journey - Azure prerequisites 
 
 ## General (not topic-related) awareness.
 

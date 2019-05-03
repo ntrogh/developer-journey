@@ -1,4 +1,4 @@
-# Azure Developer Journey - AI and Machine Learning
+# Azure Developer Journey - AI and Machine Learning 
 
 ## Pre-journey. General (not topic-related) awareness.
 
